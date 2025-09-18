@@ -1,4 +1,4 @@
-# Repository-basic-Lee
+# 2018732069_HW4_repository
 ### 이 repository는,
 * Remote repository의 생성
 * Local로 clone
